@@ -1,6 +1,7 @@
-<h1 align=center>꽃길</h2>
-<h4 align=center>부조금 부조금 서비스</h4>
-
+<h1 align=center>꽃길
+  <br>
+  온라인 부조금 서비스
+</h1>
 ## 프로젝트 데모
 ### [🚀홈페이지](http://kkotgil.s3-website.ap-northeast-2.amazonaws.com/)
 ## 프로젝트 개요
