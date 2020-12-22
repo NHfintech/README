@@ -1,9 +1,8 @@
-# 꽃길
-온라인 부조금 관리 - 꽃길
+<h1 align=center>꽃길</h2>
+<h2 align=center>온라인 부조금 관리</h3>
 
-## Demo Page
+## 프로젝트 데모
 ### [🚀홈페이지](http://kkotgil.s3-website.ap-northeast-2.amazonaws.com/)
-
 ## 프로젝트 개요
 ### [🔗PPT](https://github.com/NHfintech/README/files/5728291/nh._.pdf)
 ## 프로젝트 시연 영상
