@@ -10,3 +10,14 @@
 ### [📽영상](https://youtu.be/if5IwPW71lI)
 ## 프로젝트 정리
 ### [📑노션페이지](https://www.notion.so/NH-f8871f8922e44690863bcee1c52debca)
+
+## Author
+
+👤 **꽃길**
+
+* Github: [@배재훈](https://github.com/jaypae95)
+* Github: [@안현준](https://github.com/nnfsth)
+* Github: [@김희승](https://github.com/KHS-kr)
+* Github: [@jeky22](https://github.com/jeky22)
+
+
