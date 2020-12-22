@@ -14,10 +14,10 @@
 ## Author
 
 👤 **꽃길**
-
-* Github: [@배재훈](https://github.com/jaypae95)
-* Github: [@안현준](https://github.com/nnfsth)
-* Github: [@김희승](https://github.com/KHS-kr)
-* Github: [@jeky22](https://github.com/jeky22)
+* Github:
+  [@배재훈](https://github.com/jaypae95)
+  [@안현준](https://github.com/nnfsth)
+  [@김희승](https://github.com/KHS-kr)
+  [@이제찬](https://github.com/jeky22)
 
 
